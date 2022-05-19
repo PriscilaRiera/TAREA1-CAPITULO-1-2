@@ -309,6 +309,7 @@ Al momento de trabajar con circuitos o equipos eléctricos es necesario tener en
 
 ## 4. Video
 https://youtu.be/FEgYNI2fVuw
+
 ## 5. Conclusión
 - El sistema internacional es el sistema de unidades más utilizado, con pequeñas excepciones en ciertos países, este sistema se utiliza en todos los campos en los que se necesite realizar medicones y es muy importante ya que garantiza la uniformidad y equivalencia de sus unidades, en este sistema se puede encontrar unidades fundamentales, derivadas, unidades eléctricas y magnéticas.
 
@@ -330,3 +331,5 @@ AcMax de Mexico. (21 de septiembre de 2020). acmax. Obtenido de acmax: https://a
 Alexander, C. K., & Sadiku, M. N. O. (2004). Fundamentos de Circuitos Eléctricos 3th edition.
 
 GÓMEZ, A. J. S. (2008). Fundamentos de circuitos antonio josé salazar gómez.
+
+Arroyo, R. P. (n.d.). De fi niciones fundamentales.
