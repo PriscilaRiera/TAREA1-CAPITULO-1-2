@@ -2,16 +2,14 @@
 
 ## 1. Objetivos
 ### Objetivo General
-- Analizar los conceptos generales de los principios de los circuitos eléctricos mediante la lectura e investigación, para poder realizar cálculos y ejercicios prácticos durante el desarrollo de trabajos, laboratorios y tareas.
+- Comprender los conceptos generales de los principios de los circuitos eléctricos mediante la lectura e investigación, para poder realizar cálculos y ejercicios prácticos durante el desarrollo de trabajos, laboratorios y tareas.
 ### Objetivos Específicos
-- Determinar las unidades de medición más utilizadas.
-- Explicar como funciona la notación cientíca y su proceso de resolución.
-- Explicar a qué se refiere la notación de ingeniería, los prefijos que la acompañan y su conversión de unidades.
+- Describir las unidades de medición más utilizadas.
+- Explicar como funciona la notación cientíca, la notación de ingenieria y su proceso de resolución.
 - Describir la estructura átomica.
 - Explicar el funcionamiento de la carga eléctrica.
 - Explicar qué es el voltaje, la corriente y la resistencia.
-- Definir qué son los circuitos eléctricos.
-- Establecer componentes de la seguridad electrica.
+- Explicar qué son los circuitos eléctricos, la manera en como se realizan las mediciones y las precauciones que se debe tomar al trabajar con ellos.
 ## 2. Marco Teórico
 ### Capítulo I
 Este capítulo trata sobre la definición, el uso y la conversion de  unidades, cómo expresarlas de manera correcta usando prefijos métricos y se explicará no solo el término de notación científica sino tambien, el término de notación de ingenieria. 
@@ -210,13 +208,105 @@ Al momento de trabajar con circuitos o equipos eléctricos es necesario tener en
 ![image](https://user-images.githubusercontent.com/105740772/169164350-982c2161-0ed3-4867-a618-caa215d18cfb.png)
 
 18.Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+![image](https://user-images.githubusercontent.com/105740772/169177076-66a709f8-f91d-4376-a5ef-40aa538c4379.png)
 
 20.Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
+![image](https://user-images.githubusercontent.com/105740772/169180871-7a4c6da8-0046-4634-8da2-47f4e5441103.png)
+
 22.Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
-24.. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+![image](https://user-images.githubusercontent.com/105740772/169184808-df9b7640-ed49-4412-89f0-49b5b91fef35.png)
+
+24.Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+![image](https://user-images.githubusercontent.com/105740772/169185096-6d376ff2-33b7-492b-a108-c351ada78812.png)
+
 26.Exprese cada cantidad en notación de ingeniería:
+![image](https://user-images.githubusercontent.com/105740772/169185420-4b5f51d3-0f53-4aae-ba84-9280999123fe.png)
+
 28.Determine lo siguiente:
+![image](https://user-images.githubusercontent.com/105740772/169188741-52042867-1475-40f2-8259-1bde7ebf0c14.png)
+
 30.Realice las siguientes operaciones:
+![image](https://user-images.githubusercontent.com/105740772/169188941-8947d55b-6f83-454f-bd7b-d3838b27413a.png)
+
+### Capítulo II
+2.¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
+![image](https://user-images.githubusercontent.com/105740772/169191808-2c7c7568-12ea-4988-afc8-6ac8fceb8ec7.png)
+
+4.¿Cuántos electrones se requieren para producir 80 μC (microcoulombs) de carga?
+![image](https://user-images.githubusercontent.com/105740772/169192216-14208bc9-e4ff-4a78-bed7-60ccb38c3d2d.png)
+
+6.Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+![image](https://user-images.githubusercontent.com/105740772/169192379-91440520-e9ed-4caa-bb97-286f0bfc11e8.png)
+
+8.¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+
+![image](https://user-images.githubusercontent.com/105740772/169192533-f1cbe5cc-2548-45d2-a40e-c7e17855f653.png)
+
+10.Determine la corriente en cada uno de los siguientes casos:
+![image](https://user-images.githubusercontent.com/105740772/169193344-8c6d09dd-3dee-40ed-b40e-ff4de2b86e2e.png)
+
+12.¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+![image](https://user-images.githubusercontent.com/105740772/169193541-0ea4b9f9-2a81-4193-a88b-917d80a094b4.png)
+
+14.5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+![image](https://user-images.githubusercontent.com/105740772/169193603-9545a62e-fa23-48a0-8973-0879a84154d8.png)
+
+16.Encuentre la resistencia correspondiente a las siguientes conductancias:
+![image](https://user-images.githubusercontent.com/105740772/169201854-7930cb7a-d3c5-4ce0-bb6d-4d46a877d569.png)
+
+18.¿En qué principio se basan los generadores eléctricos?
+
+![image](https://user-images.githubusercontent.com/105740772/169210725-1376553a-8387-48a8-8ef4-5656a3ef1c69.png)
+
+
+20.Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω ,¿cuál es la corriente en la carga?
+![image](https://user-images.githubusercontent.com/105740772/169203277-3d561fd7-c851-48ac-88ce-e60712e20da9.png)
+
+22.Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21
+![image](https://user-images.githubusercontent.com/105740772/169206849-2535c0a9-4777-4f09-878a-0edf6e244fdd.png)
+
+24.Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+![image](https://user-images.githubusercontent.com/105740772/169207027-3ba15708-5e5a-47b5-8dac-1cb7f0dfa816.png)
+
+26.Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+![image](https://user-images.githubusercontent.com/105740772/169207300-e7a3bf3a-2a90-4988-9607-f509dcb6658d.png)
+
+28.El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+![image](https://user-images.githubusercontent.com/105740772/169210632-54f5e34b-e7a2-4975-a223-5bb30ef7db67.png)
+
+30.Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+![image](https://user-images.githubusercontent.com/105740772/169205845-be243036-52d1-442e-9c5b-095bbc11fcaf.png)
+
+32.Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+![image](https://user-images.githubusercontent.com/105740772/169212044-b6c9022b-8254-421b-94d9-7e28a393d77b.png)
+
+34.¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+![image](https://user-images.githubusercontent.com/105740772/169213164-927638e9-c9e0-4b55-bffe-a1ed0f4cf96e.png)
+
+36.Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
+
+![image](https://user-images.githubusercontent.com/105740772/169216893-f55fd2ea-3ccb-42ab-a284-b38dd85a7c23.png)
+
+38.Explique cómo mediría la resistencia de R2 en la figura 2-72
+![image](https://user-images.githubusercontent.com/105740772/169217339-cca2efd9-e66c-48ce-b0e2-378e9b2c2994.png)
+
+40.En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
+![image](https://user-images.githubusercontent.com/105740772/169218336-5e84ee70-e971-490f-8228-1dda4ff7500d.png)
+
+42.Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
+![image](https://user-images.githubusercontent.com/105740772/169222147-57040bc8-cb97-4306-b069-a9d7144a4578.png)
+
+44.¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+![image](https://user-images.githubusercontent.com/105740772/169218772-89831178-d6b5-4ba8-805e-6ef484710084.png)
+
+46.¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+![image](https://user-images.githubusercontent.com/105740772/169210937-93417f87-d81b-48f2-873b-8189dccb71fe.png)
+
 ## 4. Video
+
 ## 5. Conclusión
 ## 6. Bibliografía
