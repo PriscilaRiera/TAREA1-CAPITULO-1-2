@@ -5,9 +5,9 @@
 - Comprender los conceptos generales de los principios de los circuitos eléctricos mediante la lectura e investigación, para poder realizar cálculos y ejercicios prácticos durante el desarrollo de trabajos, laboratorios y tareas.
 ### Objetivos Específicos
 - Describir las unidades de medición más utilizadas.
-- Explicar como funciona la notación cientíca, la notación de ingenieria y su proceso de resolución.
+- Explicar como funciona la notación cientíca, la notación de ingenieria.
 - Describir la estructura átomica.
-- Explicar el funcionamiento de la carga eléctrica.
+- Explicar qué es la carga eléctrica.
 - Explicar qué es el voltaje, la corriente y la resistencia.
 - Explicar qué son los circuitos eléctricos, la manera en como se realizan las mediciones y las precauciones que se debe tomar al trabajar con ellos.
 ## 2. Marco Teórico
@@ -310,4 +310,23 @@ Al momento de trabajar con circuitos o equipos eléctricos es necesario tener en
 ## 4. Video
 https://youtu.be/FEgYNI2fVuw
 ## 5. Conclusión
+- El sistema internacional es el sistema de unidades más utilizado, con pequeñas excepciones en ciertos países, este sistema se utiliza en todos los campos en los que se necesite realizar medicones y es muy importante ya que garantiza la uniformidad y equivalencia de sus unidades, en este sistema se puede encontrar unidades fundamentales, derivadas, unidades eléctricas y magnéticas.
+
+- Tanto la notación científica como la notación de ingenieria poseen similitudes pero no por ello se puede decir que son iguales pues la notación científica se encarga de reescribir números que sean muy grandes o muy pequeños a una forma más fácil de trabajar mientras que, la notación de ingenieria se encarga de reescribir a la notación científica con múltiplos de 3 y adjuntarlos a una terminolgía adecuada de unidad de medición, lo que es de gran importancia al momento de realizar operaciones matematicas relacionadas a temas de electrónica.
+
+- Los elementos que se usaran en el estudio de la electrónica estan compuestos de átomos, razón por la cual conocer su estructura es importante, el átomo tienes dos partes fundamentales, su núcleo que contiene a los protones y neutrones es positivo mientras que en la orbita encontramos a los electrones con carga negativa, al unirse átomos de la misma clase se obtiene un elemento.
+
+- La carga eléctrica se origina cuando existe el movimiento de particulas subatómicas, pueden haber cargas positivas como negativas según la Ley planteada de Coulomb, cuando hay movimiento de partículas a través de un circuito electríco cerrado se poduce una carga eléctrica.
+
+- El voltaje, la corrinte y la resistencia son conceptos básicos y fundamentales cuando se inicia el estudio de la electrónica o un tema similar a este, estos conceptos son partes importantes dentro de un circuito eléctrico, sea para comprenderlo o realizarlo. El voltaje, la corriente y la resistencia tiene sus propias unidades de medición al igual que una fórmula para poder calcularlos, sin embargo existe una ley que facilita su comprensión, esta es la Ley de Ohm y como se ha dicho anteriormente es fundamental en el estudio de la electrónica.
+
+- Un circuito eléctrico es un conjunto de conexiones que de estar hechas correctamente produciran un flujo de energía, al momento de realizar un circuito eléctrico es recomendable tambien realizar su esquema para así tener una idea más clara, al igual que los cálculos correspondientes,los circuitos eléctricos tienen componentes como lo son los resistores, cortacircuitos, alambres, entre otros, con estos materiales se armara el circuito y una vez realizado todo esto se pasa a medir su  voltaje, la corriente y su resistenca con instrumentos como el multimetro, el cual puede ser digital o analógico, esto dependera de quien lo use y como se sienta mas cómodo, por supuesto tambien hay que tomar precauciones para evitar posibles accidentes que, en el mejor de los casos puede ser un pequeño golpe de corriente y en el peor la muerte, razon por la cual es sumamente importante estar siempre al tanto de los riesgos, mantenerse alerta y concentrado, antes durante y despues de trabajar con los circuitos electicos.
+
 ## 6. Bibliografía
+Floyd, T. L. (2007). Principios de circuitos eléctricos . Monterrey: Pearson Educación.
+
+AcMax de Mexico. (21 de septiembre de 2020). acmax. Obtenido de acmax: https://acmax.mx/que-es-una-fuente-de-corriente
+
+Alexander, C. K., & Sadiku, M. N. O. (2004). Fundamentos de Circuitos Eléctricos 3th edition.
+
+GÓMEZ, A. J. S. (2008). Fundamentos de circuitos antonio josé salazar gómez.
