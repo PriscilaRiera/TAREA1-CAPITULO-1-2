@@ -235,7 +235,7 @@ Al momento de trabajar con circuitos o equipos eléctricos es necesario tener en
 4.¿Cuántos electrones se requieren para producir 80 μC (microcoulombs) de carga?
 ![image](https://user-images.githubusercontent.com/105740772/169192216-14208bc9-e4ff-4a78-bed7-60ccb38c3d2d.png)
 
-6.Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+6.Se utilizan 500 joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 ![image](https://user-images.githubusercontent.com/105740772/169192379-91440520-e9ed-4caa-bb97-286f0bfc11e8.png)
 
 8.¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
@@ -261,10 +261,11 @@ Al momento de trabajar con circuitos o equipos eléctricos es necesario tener en
 
 
 20.Cierta fuente de corriente proporciona 100 mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω ,¿cuál es la corriente en la carga?
+
 ![image](https://user-images.githubusercontent.com/105740772/169203277-3d561fd7-c851-48ac-88ce-e60712e20da9.png)
 
 22.Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21
-![image](https://user-images.githubusercontent.com/105740772/169206849-2535c0a9-4777-4f09-878a-0edf6e244fdd.png)
+![image](https://user-images.githubusercontent.com/105740772/169304616-0dcd461e-1543-4ae5-8bc8-bccfba5b31ec.png)
 
 24.Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 ![image](https://user-images.githubusercontent.com/105740772/169207027-3ba15708-5e5a-47b5-8dac-1cb7f0dfa816.png)
@@ -307,6 +308,6 @@ Al momento de trabajar con circuitos o equipos eléctricos es necesario tener en
 ![image](https://user-images.githubusercontent.com/105740772/169210937-93417f87-d81b-48f2-873b-8189dccb71fe.png)
 
 ## 4. Video
-
+https://youtu.be/FEgYNI2fVuw
 ## 5. Conclusión
 ## 6. Bibliografía
